@@ -7,22 +7,22 @@ section {
    padding: 0 5%;
 }
 
-.top-section {
+.top-banar-section {
    padding-top: 10px;
    background-image: url(images/top-banner.png);
    background-repeat: no-repeat;
    display: flex;
 }
 
-.half {
+.half_banner {
    width: 50%;
 }
 
-.half img {
+.half_banner img {
    width: 80%;
 }
 
-.half h1 {
+.half_banner h1 {
    font-size: 50px;
 }
 
@@ -30,7 +30,7 @@ section {
    color: orange;
 }
 
-.half .hire_me_btn {
+.half_banner .hire_me_btn {
    color: white;
    font-weight: 700;
    text-decoration: none;
